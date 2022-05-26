@@ -1,6 +1,7 @@
 # "Awesome" Disposable Email Domains
 
-# 
+A list of disposable email domains. Please submit improvements for any domains that are missing from the list. 
+
 0815.ru
 
 0wnd.net
