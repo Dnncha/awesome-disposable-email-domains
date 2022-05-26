@@ -1,0 +1,1 @@
+# awesome-disposable-email-domains
